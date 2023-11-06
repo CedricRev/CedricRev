@@ -1,5 +1,5 @@
 ## Welcome to my Github Profile! 👋
-Hello there! 👋 I am Cedric Revestir and I've been writing code since 2016. I've been trying to improve my coding habits gradually through game designs and have spent every moment of that time without procastinating at all 🎭 (yes I don't lie). My favorite languages are Java, C#, and C++, but I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my own personal website. I've also been running game servers and developing scripts for fun.
+Hello there! 👋 I am Cedric Revestir and I've been writing code since 2016. I've been trying to improve my coding habits gradually through game designs and backend architecture. My favorite languages are Java, Javascript, and C++, but I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my own personal website. I've also been running game servers and developing scripts for fun.
 <p align="left">
 <img src="https://custom-icon-badges.demolab.com/badge/Works_on-my_Machine-red.svg?logo=device-desktop&logoColor=white&style=for-the-badge&labelColor=CE4630">
 <a href="https://github.com/ForrestKnight?tab=followers">

@@ -1,10 +1,10 @@
 ## Welcome to my Github Profile! 👋
-Hello there! 👋 I am Cedric Revestir and I've been writing code since 2016. I've been trying to improve my coding habits gradually through game designs and backend architecture. My favorite languages are Java, Javascript, and C++, but I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my own personal website. I've also been running game servers and developing scripts for fun.
+Hello there! 👋 I am Cedric Revestir. I've been trying to improve my coding habits gradually through game designs and backend architecture. My favorite languages are Java, Javascript, and C++, but I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my own personal website. I've also been running game servers and developing scripts for fun.
 <p align="left">
 <img src="https://custom-icon-badges.demolab.com/badge/Works_on-my_Machine-red.svg?logo=device-desktop&logoColor=white&style=for-the-badge&labelColor=CE4630">
-<a href="https://github.com/ForrestKnight?tab=followers">
+<a href="https://github.com/CedricRev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/CedricRev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow_Me&logoColor=white"/></a>
-<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+<a href="https://github.com/CedricRev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CedricRev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
   

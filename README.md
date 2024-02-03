@@ -1,5 +1,7 @@
+
 ## Welcome to my Github Profile! 👋
-Hello there! 👋 I am Cedric Revestir. I've been trying to improve my coding habits gradually through game designs and backend architecture. My favorite languages are Java, Javascript, and C++, but I'm happy to work in just about any language. Lately, I've spent most of my free-time doing web development for my own personal website. I've also been running game servers and developing scripts for fun.
+  
+Hello there! Thank you for visiting my github profile. I'm Cedric Revestir, a dedicated developer with a passion for turning ideas into reality through coding. If you're looking for someone passionate about coding or open to mentorship opportunities, feel free to connect with me! Let's code and create something amazing together. 🚀
 <p align="left">
 <img src="https://custom-icon-badges.demolab.com/badge/Works_on-my_Machine-red.svg?logo=device-desktop&logoColor=white&style=for-the-badge&labelColor=CE4630">
 <a href="https://github.com/CedricRev?tab=followers">
@@ -7,25 +9,17 @@ Hello there! 👋 I am Cedric Revestir. I've been trying to improve my coding ha
 <a href="https://github.com/CedricRev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CedricRev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-  
-#
 
-### 📋 My Todos
----
-Here are currently the list of things that I want to do if I have free time to spare.
-* [ ] 🤓 Be proficient enough on HTML, CSS and Javascript for my upcoming personal website
-* [ ] 🎮 Finish a working prototype of an unnamed small game
-* [ ] 💻 Make tons of contributions on any OSS via Github
-* [X] 🌿 Touch Grass
-
-#
-
-### 📊 My Github Stats
+## 📊 My Github Stats
 ![CedricRev's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedricrev&show_icons=true&theme=gruvbox)
 
-#
 
-### 🧰 Languages and Tools that I have tried so far...
+## 🔧 Technologies & Tools  
+
+- 💻 Java is my primary programming language.
+- 🌐 Experienced in Java + Spring Framework for Backend Development, and React Native/Flutter for Android Development.
+
+📚 Constantly learning and expanding my skill set. Here are what I tried so far:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />

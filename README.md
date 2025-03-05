@@ -48,6 +48,9 @@ I'm Cedric Revestir, an Aspiring Junior Developer with a passion for applying my
   
   ![](https://nirzak-streak-stats.vercel.app/?user=cedricrev&theme=rose_pine&hide_border=false)<br/>
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/cedricrev/cedricrev/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ##

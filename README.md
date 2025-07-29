@@ -4,17 +4,10 @@
 </div>
 
 ### Hello there! Thank you for visiting my github profile. 👋
-<p>
-Hi, I’m Cedric Revestir — an aspiring Software Engineer with a passion for building and learning through code.
-I specialize in Java and enjoy working on backend systems, APIs, and anything that builds solutions.
-I’m always open to exploring new technologies and can adapt when the project calls for it.
-Let’s connect and build something meaningful together.
-</p>
+👩🏻‍💻 Aspiring Software/Embedded Engineer with a passion for building and learning through code<br/>
+🎨 My goto language is Java and enjoy working on backend systems, APIs, and anything that builds solutions.<br/>
+💭 I’m always open to exploring new technologies and can adapt when the project calls for it.<br/>
 <p style="line-height: 1.8; display: inline-block;">
-  <span style="display: inline-flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="16" alt="LinkedIn Logo" />
-    <span style="margin-left: 8px;">LinkedIn: <a href="https://linkedin.com/in/cedricrevestir">https://linkedin.com/in/cedricrevestir</a></span>
-  </span>
   <br />
   <span style="display: inline-flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="Website Logo" />
